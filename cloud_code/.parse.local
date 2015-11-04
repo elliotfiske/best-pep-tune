@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Best Pep Tune": {
+      "applicationId": "1QOrGcGEXlkaE0HiMiCf9aR8vUC0vDQ5diErXt1Q"
+    },
+    "_default": {
+      "link": "Best Pep Tune"
+    }
+  }
+}
