@@ -1,11 +1,11 @@
 <!doctype html>
 <head>
 
-  <?php include('../analyticstracking.php'); ?>
+  <!-- <?php include('../analyticstracking.php'); ?> -->
   <meta charset="utf-8">
 
   <title>BEST PEP TUNE</title>
-  <meta name="description" content="the midterms never bothered me anyways">
+  <meta name="description" content="Mangle any names that you ">
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/styles.css">
@@ -13,7 +13,12 @@
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
   <script type="text/javascript" src="http://www.parsecdn.com/js/parse-latest.js"></script>
 
-
+  <!-- Bower junk -->
+  <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+  <link rel="import" href="bower_components/core-scaffold/core-scaffold.html">
+  <link rel="import" href="bower_components/core-item/core-item.html"> 
+  <link rel="import" href="bower_components/paper-input/paper-input.html">
+  <link rel="import" href="bower_components/paper-fab/paper-fab.html">
 
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">

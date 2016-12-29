@@ -1,0 +1,25 @@
+{
+  "name": "best",
+  "homepage": "https://github.com/elliotfiske/best-pep-tune",
+  "authors": [
+    "elliotfiske <elliotfiske@gmail.com>"
+  ],
+  "description": "Best Pep Tune NA",
+  "main": "index.php",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "resolutions": {
+    "polymer": "^1.2.0",
+    "webcomponentsjs": "^0.7.2"
+  }
+}
